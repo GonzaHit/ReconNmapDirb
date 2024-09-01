@@ -7,8 +7,8 @@ Tool to Recon
    sudo apt-get install nmap dirb
   
 2. Ejecuta el script: Abre una terminal y navega hasta el directorio donde guardaste el archivo. Luego ejecuta:
-bash
-   python ReconNmapDirb.py
+
+   sudo python ReconNmapDirb.py
    
 3. Introduce el objetivo: Cuando inicies, ingresa la dirección IP o el dominio que deseas escanear.
 
